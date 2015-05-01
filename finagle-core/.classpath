@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="util-logging_2.10-6.23.0.jar"/>
 	<classpathentry kind="lib" path="guava-18.0.jar"/>
 	<classpathentry kind="lib" path="util-registry_2.10-6.24.0.jar"/>
+	<classpathentry kind="lib" path="jsr166e-1.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
